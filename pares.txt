@@ -5,3 +5,6 @@
 //segunda libreria
 
 #include <conio.h>
+//inicio
+
+void main(){
