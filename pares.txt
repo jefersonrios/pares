@@ -8,3 +8,7 @@
 //inicio
 
 void main(){
+
+//limpia 
+
+clrscr();
