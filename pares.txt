@@ -1,3 +1,7 @@
 // primera libreria
 
 #include <stdio.h>
+
+//segunda libreria
+
+#include <conio.h>
