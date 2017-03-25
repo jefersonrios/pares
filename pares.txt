@@ -15,3 +15,6 @@ clrscr();
 
 //Definicion de variables
  int _cont;
+
+//se creo un conteo hasta 100
+while(_cont<=100){
