@@ -24,3 +24,6 @@ if(_cont%2==0){
 
 //imprimir
  printf("%d, ",_cont);
+
+//se crea un contador y se finaliza si es par 
+   _cont++;
